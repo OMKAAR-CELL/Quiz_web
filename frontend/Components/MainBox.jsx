@@ -43,6 +43,7 @@ const MainBox = () => {
               className="w-full max-w-lg h-auto object-contain drop-shadow-2xl"
             />
           </div>
+          
         </div>
       </div>
     </div>
